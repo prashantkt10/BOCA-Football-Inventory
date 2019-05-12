@@ -1,0 +1,13 @@
+.image { 
+   position: relative; 
+}
+
+#abt { 
+   position: absolute; 
+   top: 70px; 
+   left: 480px; 
+   width: 30%;
+   opacity:0.8;
+   font-family:Century Gothic;
+   align-self:center; 
+}
